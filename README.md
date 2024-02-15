@@ -1,12 +1,12 @@
 ## Analiza kosztów leczenia szpitalnego
---
+----
 
 Projekt analizy kosztów leczenia został stworzony w celu skupienia się na aspektach finansowych związanych z różnymi parametrami, takimi jak choroba, wiek pacjentów, 
 długość pobytu, czy typ przyjęcia do szpitala. Dzięki tej analizie użytkownik może uzyskać pełną perspektywę dot. kosztów leczenia, co pozwala na podejmowanie decyzji
 i optymalizację zarządzania finansami w obszarze zdrowia.
 
 #### Dane
---
+----
 
 Dane pochodzą z pliku CSV pobranego ze strony Kaggle, zawierającego informacje o pacjentach, kosztach leczenia, chorobach, itp. 
 Baza została zaimportowana do MS SQL Server, gdzie przeprowadzono szereg zapytań SQL, analizując różne aspekty kosztów leczenia.
