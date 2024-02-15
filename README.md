@@ -21,7 +21,7 @@ analizy kosztów leczenia, umożliwiając pełne zrozumienie danych.
 
 ## Wizualizacje
 
-Wizualizacje w Excel i Power BI są bezpośrednio dostępne w repozytorium. Natomiast wizualizację przygotowane w Tableau można znaleźć na moim profilu Tableau Public.
+Wizualizacje w Excel i Power BI są bezpośrednio dostępne w repozytorium. Natomiast wizualizację przygotowane w Tableau można znaleźć na moim profilu [Tableau Public](https://public.tableau.com/app/profile/daria.ebrowska/viz/Analizachorb/Dashboard4).
 
 ## Struktura repozytorium
 
@@ -29,4 +29,4 @@ Repozytorium jest podzielone na kategorie, gdzie znajdziesz zapytania SQL i wizu
 
 ## Instrukcje
 
-W celu uzyskania pełnej prezentacji danych z Tableau, proszę odwiedzić mój profil Tableau Public .
+W celu uzyskania pełnej prezentacji danych z Tableau, proszę odwiedzić mój profil [Tableau Public](https://public.tableau.com/app/profile/daria.ebrowska/viz/Analizachorb/Dashboard4) .
